@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nh-adorie
-- 👀 I’m interested in cat, milktea, rain, code
-- 🌱 I’m currently learning basic front-end
+- 👀 I’m interested in cat, milk tea, rain, ...
 - 📫 How to reach me: https://www.facebook.com/haithuongmeow/
 
 <!---
