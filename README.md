@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nh-adorie
-- 👀 I’m interested in cat, milk tea, rain, ...
+
 
 
 <!---
